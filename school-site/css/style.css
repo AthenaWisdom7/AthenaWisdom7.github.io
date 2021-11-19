@@ -78,10 +78,12 @@ header, footer {
 
 
 /* Imported Typfaces */
-
-
-
-
+@font-face {
+    src: fonts(josefinslab-regular);
+}
+@font-face {
+    src: fonts(montserrat-regular);
+}
 
 /* Typography Styles */
 
