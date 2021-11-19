@@ -135,7 +135,11 @@ li {
      text-indent: 1.5;
   }
 
-figcaption {}
+figcaption {
+      font-size: 
+      letter-spacing: 0.75rem;
+      bottom-margin: 2rem;
+  }
 
 /* Link Styling */
 
