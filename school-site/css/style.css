@@ -100,13 +100,41 @@ h1{
       align: center;
    }
 
-h2{}
+h2{
+     font family:coolfont, Josefinslab, serif;
+     letter-spacing: 0.13rem;
+     margin: 1.125rem;
+     font-size: 1.5rem;
+     align: center;
+  }
 
-h2 + p {}
+h2 + p {
+     font family:coolfont, Josefinslab, serif;
+     letter-spacing: 0.031rem;
+     margin: 1.125rem;
+     font-size: 0.75rem;
+     align: center;
+     text-indent: 1.5;
+  }
 
-p {}
+p {
+     font family:coolfont, Josefinslab, serif;
+     letter-spacing: 0.031rem;
+     margin: 1.125rem;
+     font-size: 0.75rem;
+     align: center;
+     text-indent: 1.5;
+  }
 
-li {}
+li {
+     font family:coolfont, Josefinslab, serif;
+     letter-spacing: 0.031rem;
+     margin: 1.125rem;
+     font-size: 0.75rem;
+     align: center;
+     text-indent: 1.5;
+  }
+
 figcaption {}
 
 /* Link Styling */
