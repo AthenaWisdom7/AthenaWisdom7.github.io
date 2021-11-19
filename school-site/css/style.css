@@ -87,9 +87,18 @@ header, footer {
 
 /* Typography Styles */
 
-html {}
+html {
 
-h1{}
+      font family:coolfont, Montserrat, sans-serif;
+    }
+
+h1{
+      font family:coolfont, Josefinslab, serif;
+      letter-spacing: 0.13rem;
+      margin: 1.125rem;
+      font-size: 3.75rem;
+      align: center;
+   }
 
 h2{}
 
